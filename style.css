@@ -6,7 +6,7 @@
 .main {
     position: relative;
     padding: 1.5vw;
-    background-image: url(/Assets/images/bg1.jpg);
+    background-image: url(./Assets/images/bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
