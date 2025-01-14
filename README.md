@@ -14,9 +14,9 @@ A fully responsive Netflix clone created using only **HTML** and **CSS**. This p
 <img src="https://github.com/user-attachments/assets/308aebea-65ee-49a0-80d4-f3967c4d9ee1">
 
 <h2>Portrait Preview</h2>
-<img src="https://github.com/user-attachments/assets/62b05f61-0345-4644-9797-7eb49fc3888e" width="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/28c6a94d-c40a-408b-9da3-c111e7e82f21" width="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/192164ae-bd5b-4579-aec8-bd9a14571974" width="250px">
+<img src="https://github.com/user-attachments/assets/62b05f61-0345-4644-9797-7eb49fc3888e" width="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/192164ae-bd5b-4579-aec8-bd9a14571974" width="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/79ee92b2-f97d-4a52-ae48-e181f26f880e" width="250px">
 
 ## Technologies Used 🛠️  
 - **HTML5**: Semantic and structured markup.  
@@ -51,5 +51,5 @@ Install the Live Server extension.
 Right-click on the index.html file and select Open with Live Server.
 
 ## Future Enhancements 🔮
-Adding interactivity with JavaScript (optional).
-Incorporating dynamic content using an API.
+- Adding interactivity with JavaScript.
+- Incorporating dynamic content using an API.
