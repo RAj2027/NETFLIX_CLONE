@@ -9,6 +9,10 @@ A fully responsive Netflix clone created using only **HTML** and **CSS**. This p
 - **No JavaScript**: Built purely with HTML and CSS for simplicity.  
 
 ## Preview 📸  
+<h2 >Video Preview</h2>
+
+https://github.com/user-attachments/assets/6f711018-43b9-4b14-9981-f8c3abd380e7
+
 <h2 >Landscape Preview</h2>
 
 <img src="https://github.com/user-attachments/assets/308aebea-65ee-49a0-80d4-f3967c4d9ee1">
