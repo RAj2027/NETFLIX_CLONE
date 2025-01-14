@@ -15,11 +15,11 @@ https://github.com/user-attachments/assets/6f711018-43b9-4b14-9981-f8c3abd380e7
 
 <h2 >Landscape Preview</h2>
 
-<img src="https://github.com/user-attachments/assets/308aebea-65ee-49a0-80d4-f3967c4d9ee1">
+<img src="https://github.com/user-attachments/assets/62b4d724-cc97-4b66-93a1-f329c4803400">
 
 <h2>Portrait Preview</h2>
-<img src="https://github.com/user-attachments/assets/62b05f61-0345-4644-9797-7eb49fc3888e" width="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/192164ae-bd5b-4579-aec8-bd9a14571974" width="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/378e890a-9304-4518-8ba4-a9bf352c647e" width="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/1f19a711-18a7-44c5-8afa-25e6dfaadfbc" width="250px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/79ee92b2-f97d-4a52-ae48-e181f26f880e" width="250px">
 
 ## Technologies Used 🛠️  
