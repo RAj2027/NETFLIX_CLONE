@@ -32,7 +32,7 @@ Follow these steps to set up and view the project locally:
 
 ### 1. Clone the Repository  
 Begin by cloning this repository to your local machine. Open your terminal or command prompt and run:  
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/RAj2027/NETFLIX_CLONE.git
 
 ### 2. Navigate to the Project Directory
 Move into the cloned project folder using the cd command:
